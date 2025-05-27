@@ -1,0 +1,56 @@
+body {
+  font-family: sans-serif;
+  background-color: rgb(128, 172, 189);
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+
+h2 {
+  text-align: center;
+}
+
+.input-area {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+input {
+  flex: 1;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 10px;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+li.done span {
+  text-decoration: line-through;
+  color: rgb(217, 169, 169);
+}
+
+
+
+
+.remove-btn {
+  background-color: rgb(233, 11, 11);
+  color: rgb(26, 1, 1);
+  border: none;
+  padding: 4px;
+  cursor: pointer;
+  border-radius: 3px;
+}
