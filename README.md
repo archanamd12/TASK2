@@ -2,7 +2,6 @@
 
 A basic To-Do List app built using only HTML, CSS, and JavaScript.  
 
----
 
 ##  Features
 
@@ -11,7 +10,6 @@ A basic To-Do List app built using only HTML, CSS, and JavaScript.
 - Remove tasks with a delete (X) button
 - Instant updates without page reload
 
----
 
 ## 🛠 Tools Used
 
